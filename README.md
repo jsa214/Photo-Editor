@@ -1,10 +1,4 @@
-GROUP 5
-Jihoon Sung
-Louisa Luo
-Monica Luna-Estrada
-Yice Jiang
-Yihsuan Lo
-
+# Photo Editor 
 To access to application: https://kcezue.axshare.com/#c=2
 Or open Axure file and click 'Preview' from 'Home' page
 
